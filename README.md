@@ -61,7 +61,7 @@ The dataset contains 520 patient records and 16 features related to early-stage 
 The dataset is used here for educational and exploratory data-analysis purposes.
 
 ## Project Structure
-
+```text
 diabetes-eda/
 ├── diabetes_eda.ipynb
 ├── diabetes_data_upload.csv
