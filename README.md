@@ -41,7 +41,7 @@ Rather than jumping straight to a predictive model, this is a ground-up explorat
 
 ## Limitations
 
-Please note that this is an associations-based analysis, not a causal one. The dataset also skews somewhat toward Positive cases, which can shape how strong certain patterns appear. And since this project stops at exploration, it doesn't test how well any of these features would actually hold up predicting outcomes for new, unseen patients.
+Please note that this is an associations-based analysis, not a causal one. The dataset also skews somewhat toward Positive cases, which can shape how strong certain patterns appear. And since this project stops at exploration, it doesn't test how well any of these features would actually hold up predicting outcomes for new patients.
 
 A natural next step would be to take these findings and build out classification models to see how well they generalize.
 
